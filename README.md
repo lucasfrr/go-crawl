@@ -28,7 +28,7 @@ Depois, vá até a collection e verifique a quantidade de inserções:
 - `show dbs;`
 - `show collections;`
 - `use crawler` (nome da collection que está sendo utilizada)
-- `db.links.count({})`
+- `db.links.countDocuments({})`
 
 ---------------------------
 
@@ -62,4 +62,4 @@ After go to the collection and count insertions:
 - `show dbs;`
 - `show collections;`
 - `use crawler` (name of collection)
-- `db.links.count({})`
+- `db.links.countDocuments({})`
